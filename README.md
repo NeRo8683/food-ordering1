@@ -5,7 +5,7 @@
 - spring security
 - spring start mail
 - jeson web token
-- Posgresql(Data base)
+- Posgresql (Data base)
 
 
 ## Web Site de pedidos de comida online
