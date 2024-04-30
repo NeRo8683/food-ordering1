@@ -9,14 +9,11 @@
 
 
 ## Web Site de pedidos de comida online
- Food-Ordering es una plataforma para publicitar restaurantes exhibiendo su carta de comidas, el propietario que quiera
-incorporarse a nuestra plataforma debe loguearse.
- Desde la plataforma se puede elegir el horario de apertura para ofrecer viandas a traves de delivery 
- Si ingreso a un restaurant abierto puedo consultar todos los menus y filtrarlos. Se pueden ver imagenes del restaurant, cnosultar tanto 
-su ubicacion como su horario. Se pueden agregar restaurantes a tu lisra de favoritos.
- Se puede buscar por comida por ejemplo pizza y filtrar que restaurant tienen ese menu con cada comida disponible.
- Al ordenar comida se puede seleccionar elegir los ingredientes de esa comida, que puede o no encontrarse disponible en stock, agregarlo al 
-carrito de compras (cart) y elegir la cantidad.
- Al solicitar el pedido ingresa direccion, pin-code y ciudad y se nos redirige a la pagina de pasarela de pago y desde aqui debes completar 
-tu pago.
- Desde el administrador se puede abrir y cerrar el negocio y ver todos los detalles del restaurant como asi tb agregar o modificarlos.
+ Food-Ordering es una plataforma para publicitar restaurantes exhibiendo el menú de comidas disponibles, el propietario que quiera
+incorporarse deberá loguearse.
+ Desde la plataforma se puede elegir el horario de apertura para ofrecer viandas a traves de un servicio de delivery. 
+ Si ingreso a un restaurant abierto puedo consultar todos los menús y filtrarlos por categoria. Se pueden ver imagenes del restaurant, consultar ubicacion, horario y agregar restaurantes a tu lisra de favoritos.
+ Se puede filtrar que restaurant tienen ese cierto menú disponible.
+ Se puede seleccionar los ingredientes de la comida comida que puede o no encontrarse  en stock, agregarlo al carrito de compras (cart) y elegir su cantidad .
+ Al solicitar el pedido ingresa direccion, pin-code y ciudad y se nos redirige a la pagina de pasarela de pago para finalizar el pago.
+ Desde el administrador se dan de alta los restaurants y se nos permite ver los detalles, agregar y modificarlos.
