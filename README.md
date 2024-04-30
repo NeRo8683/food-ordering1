@@ -9,7 +9,7 @@
 
 
 ## Web Site de pedidos de comida online
- Food-Ordering es una plataforma para registrar restaurantes en nuestra plataforma exhibiendo la carta disponible, el propietario que quiera
+ Food-Ordering es una plataforma para publicitar restaurantes exhibiendo su carta de comidas, el propietario que quiera
 incorporarse a nuestra plataforma debe loguearse.
  Desde la plataforma se puede elegir el horario de apertura para ofrecer viandas a traves de delivery 
  Si ingreso a un restaurant abierto puedo consultar todos los menus y filtrarlos. Se pueden ver imagenes del restaurant, cnosultar tanto 
